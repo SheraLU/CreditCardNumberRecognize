@@ -8,8 +8,11 @@
 - Python3
 ## 配置过程
 1. 由于模型大小超过上传上限，需从百度网盘或git上下载模型
-   - 百度云链接
-   - GitHub链接
+   - 百度云链接:
+   - GitHub链接:`https://github.com/SheraLU/CreditCardNumberRecognize`
+   
+2. 下载vgg16文件夹后，保持路径不变，将vgg16文件夹移动到项目文件demo/faster_rcnn/output中
+
 2. 安装第三方库
     `cython`
     `opencv-python`
