@@ -9,7 +9,6 @@
 ## 配置过程
 1. 由于模型大小超过上传上限，需从百度网盘或git上下载模型
    - 百度云链接:`https://pan.baidu.com/s/1OlSq2sYdgumB8qoiqOhumg` 提取码：`kwvx`
-   - GitHub链接:`https://github.com/SheraLU/CreditCardNumberRecognize`
    
 2. 下载`vgg16文件夹`后，保持路径不变，将`vgg16文件夹`移动到项目文件夹`demo/faster_rcnn/output/`中
 
